@@ -4,5 +4,4 @@ int main(void)
 printf("hihihi\n");
 return 0;
 //okokok
-//nonono
 }
